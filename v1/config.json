@@ -40,5 +40,12 @@
       "quickSearch": 1,
       "filterable": 1
     }
+  ],
+  "lives": [
+    {
+      "name": "电视直播",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/y0uthless/fongmi-safe/master/v1/fongmi_safe_live.m3u"
+    }
   ]
 }
