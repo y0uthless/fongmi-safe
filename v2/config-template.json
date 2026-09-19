@@ -1,0 +1,58 @@
+{
+  "_instructions": [
+    "Replace USER, REPO and COMMIT with your GitHub username, repository name and exact 40-character commit SHA.",
+    "Do not use main/master for the final pinned JS URLs."
+  ],
+  "sites": [
+    {
+      "key": "safe_qihu",
+      "name": "奇虎 [HTTPS API]",
+      "type": 1,
+      "api": "https://caiji.qhzyapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "safe_taopian",
+      "name": "淘片 [HTTPS API]",
+      "type": 1,
+      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "safe_wolong",
+      "name": "卧龙 [HTTPS API]",
+      "type": 1,
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "safe_hongniu",
+      "name": "红牛 [HTTPS API]",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "safe_libvio",
+      "name": "LIBVIO [Frozen]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/USER/REPO/COMMIT/v2/lib/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/USER/REPO/COMMIT/v2/js/LIBVIO.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
