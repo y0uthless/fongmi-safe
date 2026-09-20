@@ -1,0 +1,10 @@
+{
+  "lives": [
+    {
+      "name": "完整直播配置",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/y0uthless/fongmi-safe/1e4b58041c41f7a51ef6267725b8e489b40c5ad1/live/live-complete.m3u",
+      "playerType": 1
+    }
+  ]
+}
